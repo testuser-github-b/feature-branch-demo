@@ -1,2 +1,2 @@
 # feature-branch-demo
-Demo for Feature Branch Workflow
+Demo for _Feature Branch Workflow_
